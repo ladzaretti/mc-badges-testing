@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "3.282.0",
+    "@octokit/rest": "19.0.7",
+    "@renovate/core": "1.0.0",
+    "@sindresorhus/is": "4.6.0",
+    "delay": "^5.0.0",
+    "extract-zip": "2.0.1",
+    "fs-extra": "11.1.0",
+    "got": "11.8.6",
+    "pg-format": "1.0.4",
+    "renovate": "35.17.1",
+    "upath": "2.0.1",
+    "uuid": "9.0.0"
+  },
+  "devDependencies": {
+    "@aws-sdk/types": "^3.127.0",
+    "@octokit/types": "^8.1.1",
+    "@jest/globals": "29.5.0",
+    "@types/bunyan": "^1.8.8",
+    "@types/pg-format": "1.0.2",
+    "@types/callsite": "^1.0.31",
+    "@types/fs-extra": "9.0.13",
+    "@types/uuid": "^9.0.0",
+    "aws-sdk-client-mock": "^2.0.1"
+  }
+}
