@@ -20,7 +20,7 @@
     "@types/bunyan": "^1.8.8",
     "@types/pg-format": "1.0.2",
     "@types/callsite": "^1.0.31",
-    "@types/fs-extra": "9.0.13",
+    "@types/fs-extra": "11.0.1",
     "@types/uuid": "^9.0.0",
     "aws-sdk-client-mock": "^2.0.1"
   }
