@@ -6,7 +6,7 @@
     "@jest/globals": "29.5.0",
     "@jest/reporters": "29.5.0",
     "@jest/test-result": "29.5.0",
-    "@ls-lint/ls-lint": "1.11.2",
+    "@ls-lint/ls-lint": "2.0.0",
     "@renovate/eslint-plugin": "https://github.com/renovatebot/eslint-plugin#v0.0.5",
     "@types/eslint": "8.21.1",
     "@types/jest": "29.5.0",
