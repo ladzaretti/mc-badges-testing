@@ -1,5 +1,5 @@
 {
-  "extends": ["github>ladzaretti/mc-compare:mc"],
+  "extends": ["github>ladzaretti/mc-compare:mc-img"],
   "dependencyDashboard": true,
   "enabledManagers": ["npm"],
   "separateMajorMinor": false,
