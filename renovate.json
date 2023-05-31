@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["github>ladzaretti/mc-compare:mc"],
   "enabledManagers": ["npm"],
-  "separateMajorMinor": true,
+  "separateMajorMinor": false,
   "packageRules": [
     {
       "matchUpdateTypes": ["major", "minor", "patch"],
