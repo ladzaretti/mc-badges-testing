@@ -5,6 +5,7 @@
   "packageRules": [
     {
       "matchUpdateTypes": ["major", "minor", "patch"],
+      "separateMajorMinor": fales,
       "groupName": "all deps"
     }
   ]
