@@ -1,5 +1,11 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>ladzaretti/mc-compare:mc","group:allNonMajor"],
-  "enabledManagers": ["npm"]
+  "extends": ["github>ladzaretti/mc-compare:mc"],
+  "enabledManagers": ["npm"],
+   "packageRules": [
+    {
+      "matchPackagePatterns": ["*"],
+      "groupName": "eslint packages"
+    }
+  ]
 }
