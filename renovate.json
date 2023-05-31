@@ -5,7 +5,7 @@
    "packageRules": [
     {
       "matchPackagePatterns": ["*"],
-      "groupName": "eslint packages"
+      "groupName": "all deps"
     }
   ]
 }
